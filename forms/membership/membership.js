@@ -12,3 +12,7 @@ btnSubmit.onclick=function(){
     members.push(name)
     }
 }
+<<<<<<< Updated upstream
+=======
+*/
+>>>>>>> Stashed changes
